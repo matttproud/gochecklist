@@ -38,7 +38,7 @@ for extensive build process documentation.
 The moral of the story is that non-Go code integrations impose a tremendous
 burden on authors, maintainers, and users.  Tread carefully.
 
-These prescriptions may should heavyweight, but they are necessary.  Continuous
+These prescriptions may sound heavyweight, but they are necessary.  Continuous
 build environments often callously change their underlying platform from
 underneath users.  As the author of a project, you want to insulate yourself
 from this unnecessary churn as much as possible.
