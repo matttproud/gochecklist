@@ -132,7 +132,8 @@ above the pack.
   ☐ API Stability and Maturity Grants: Does the project document its
     stability guarantees, if any?
 
-  See: _TODO_
+  See: [publication/api_stability_and_maturity.md](publication/api_stability_and_maturity.md)
+
 
   ☐ Dependency Vendoring: Does the project vendor its dependencies in some
     fashion?  Bonus points for low-tech. solutions to this.
