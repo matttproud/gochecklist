@@ -37,20 +37,9 @@ look for alternatives.
 
   See: [publication/tests_pass.md](publication/tests_pass.md)
 
-  ☐ gofmt Correctness: Is the code
-    [formatted](https://blog.golang.org/go-fmt-your-code) correctly?
+  ☐ Code Correctness: Does the code pass format, lint and error checking tools?
 
-  See: [publication/gofmt_correctness.md](publication/gofmt_correctness.md)
-
-  ☐ golint Correctness: Is the [linter](https://github.com/golang/lint)
-    satisfied?
-
-  See: [publication/golint_correctness.md](publication/golint_correctness.md)
-
-  ☐ go tool vet Correctness: Is the Go
-    [vet](http://godoc.org/golang.org/x/tools/cmd/vet) satisfied?
-
-  See: [publication/govet_correctness.md](publication/govet_correctness.md)
+  See: [publication/code_correctness.md](publication/code_correctness.md)
 
   ☐ _Go Code Review Comments_ Correctness: Does the project fulfill the
     [upstream code review
